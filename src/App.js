@@ -19,7 +19,7 @@ import "./App.css";
 import abi from "./contracts/Guestbook.json";
 
 // Steph's guestCount contract on Polygon Mumbai -- update to yours!
-const contractAddress = "0xA676f2cC7D400D1DE8b20bbd8007ca0E7A4AF5e6";
+const contractAddress = "0x69e2EBACcE065f275089E45355878D0e6BbdC938";
 const scannerAddress = `https://mumbai.polygonscan.com/address/${contractAddress}`;
 
 function App() {
